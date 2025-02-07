@@ -13,7 +13,7 @@ The project is a train ticket booking system based on microservice architecture 
 You can get more details at [Wiki Pages](https://github.com/FudanSELab/train-ticket/wiki).
 
 ## Service Architecture Graph
-![architecture](./image/2.png)
+![REDACTED](./image/2.png)
 
 ## Quick Start
 We provide k8s deployment to quickly deploy our application:  [Using Kubernetes](#Using-Kubernetes).
